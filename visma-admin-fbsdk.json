@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "visma-admin",
+  "private_key_id": "ff909b814719c84c908bdd5bdd7a60dd46805c19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQVhxZ6n/Fn+NS\nNNTO/dQRw2nHLBipyKd7o0dhoUK9X4fYfOxKbTjiievFSe/KgsMkY/5Qbm5Ms27D\nA1ZdrsLWr4w/HhsJjUGU8Wo+CneAxmpAtn7k6/EJqvhnFZ5BA/1SEr04N/lSXK5X\nUVpuTUxKT3JdFBPY4VMaWKUapoHJVGNx/vApAiJAQWKXZdcGHejuelgvllpY5xd+\ntPjFZdaFjB80u8bW9xpPF1c3AOHu0JNGAmVCiatYylIGzJ4xl0bxmzHgjWUYVh2J\nso6nq6+j5KfxPfzLq20UnLc7YRrxbNamlJYFhYZ4NcDJ+cpP9OLaMwKy+UkbLxzl\nZEXeB9CXAgMBAAECggEADNnN3meVhrfsmmYfyGorFoXKhjQz4fH+j3CDK3sbIRc/\nVhQRSbMdzHWxKzihA+vOig/pFaovYd7b7rr+Vor3x/uLRhddGuWbwDIaXnm6GBoS\nXb6h36nuJQk24p63H1zGkice98FsDlw4HYgdwBJbx4X5TbY66iVtq7vWv1+x0IXz\npsszYen0Bh6ZsYbR69AcMVPJEiZBC6JHc2SxfU9IZDADEg2JEUM+4OSYVdZMByS1\nIFhVNzoZLX4UbsHm+jckex4LutPM+S3l5FhBhsrZmixdI3E0WKWM5WW/ztKSwHO9\nAm9U2pK1ANWZ1WkvWu+MwFWPxt2uY5ORlDw6KY/BoQKBgQDL4ZMl5hwI1uBA/CDn\n7G4v/hE2RRVXvgLzhhY3PSmHYe+7VsbG+beBQmLhB/3akF15dYXvDGDuEjiaGeDD\nSlmyzR3WdoLYB7uqF/yZFNE5+IO2RIsqZXUFULgQHvpgRd5XXjEYLUSMxjioETh9\nEdQwAnpF5+21Nm6TkKb2Gsv95wKBgQC1O8vSHA5r49iP8SaCnjnVvp2WW7ny8n3e\nUJ+YP1QOwasTiEo9YiBl1/LW3HVpfnHcTUkEjjLmclflmsapinGJsHdD8phbnuPC\niXCOu5hTUNNwegKMeNG8h81vUrMWUfIzX+PDm3cAeMufR7ypU8LpVpbRkf1wegKw\nvNvq6E9h0QKBgG3OezMhQR4dpMA7Svm+ZAYjH2AMSxdrtik0oYh0v4Yz4CsU7JBD\n9GqAt8KdTELIGCAPhOgf0aDHXYbZwy1LQQ5E3Poh8Ayr9Y4Bx0Enbhx71Wx4dD+M\nTz9inw/Hr2/kkYCasXRlBROQuvkB9VufG5oT64j1BhjgTSPa96F7Az0nAoGADe9G\nEaakmTkQmqixDFP8IGoilcABwSNR+Dj8vGkKHoRXkg3ln2ifExWSj2CuCml1ebnb\nhmUklsFt7rKC2eBSMIMH+Ip7mnfSDVAh/meAI8/QIhLPhVt4zOUoL4oNSQcN91NF\nIPIgKUIgbePHJsHQ9733pK9z7CUFde9ffWVVTTECgYAvcVLgK+fsmJqbixZaB60j\nOu6jSVog3XW/VJZ5qbphcczEI4Z/ibVBMLG7xCafcRP3juCbYtO6lbPRpzJJ9ZQ3\n5NguWRV+Y7fw7HcHjZjoc8/+0KJGme6Ljj4fFq6467YZrgFsVytaHcgCs4DWm9Qz\n99V4rejf9PghN6dl9LGQVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2zcs1@visma-admin.iam.gserviceaccount.com",
+  "client_id": "115340543651806792438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2zcs1%40visma-admin.iam.gserviceaccount.com"
+}
